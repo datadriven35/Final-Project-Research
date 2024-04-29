@@ -1,7 +1,8 @@
 # Final-Project-Research
 
-### Data Categories 📊
-- Educational Qualification 🎓
+## Data Categories 📊
+
+## Educational Qualification 🎓
 Explore the educational qualifications of our users.
 
 ### Gender 🚻
