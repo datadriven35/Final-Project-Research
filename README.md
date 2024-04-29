@@ -2,7 +2,7 @@
 
 ## Data Categories 📊
 
-## Educational Qualification 🎓
+### Educational Qualification 🎓
 Explore the educational qualifications of our users.
 
 ### Gender 🚻
